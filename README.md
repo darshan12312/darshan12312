@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darshan Dugad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **responsiveness in ReactJs for upcoming Portfolio project **
 
 - 💬 Ask me about **ReactJs, Tailwind, Javascript.**
 
